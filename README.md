@@ -138,3 +138,12 @@ EdgeML‑Flow is released under the **Apache License 2.0** – see the [LICENSE]
 ---  
 
 *Ready to push intelligence to the edge? Star the repo, grab a board, and start dragging.*
+
+## Status (checkup 2026-08-18)
+> Revisado na campanha de repo-checkup. Relatorio completo: `~/repo-checkup/reports/EdgeML-Flow.md` (local do mantenedor, nao no repo).
+- **Build/Install**: scaffold/referencia sem build
+- **Smoke test**: N/A
+- **Para rodar de ponta-a-ponta precisa de**: nenhum servico externo
+- **Inconsistencias conhecidas (README vs codigo)**: nenhuma
+- **Seguranca**: sem vulns altas remediadas automaticamente
+- **Estado resumido**: scaffold/referencia sem app para rodar
