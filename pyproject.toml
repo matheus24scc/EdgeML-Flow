@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "EdgeML-Flow"
+version = "0.1.0"
+description = "EdgeML-Flow (zero-dep)"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+EdgeML-Flow = "edgeml_flow.cli:main"
+
+[tool.setuptools]
+packages = ["edgeml_flow"]
